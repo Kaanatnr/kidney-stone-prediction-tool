@@ -1,0 +1,36 @@
+code,plain_language_name,group,global_shap_importance
+RIDAGEYR,Age,Demographic,0.081
+BMXWAIST,Waist circumference,Body measurement,0.042
+RIDRETH1,Race / ethnicity,Demographic,0.039
+RIAGENDR,Sex,Demographic,0.031
+BMXLEG,Upper leg length,Body measurement,0.019
+AVGTMAGN,Average daily magnesium,Nutrition,0.015
+AVGTVC,Average daily vitamin C,Nutrition,0.010
+AVGTALCO,Average daily alcohol,Lifestyle,0.010
+AVGTSUGR,Average daily total sugars,Nutrition,0.008
+AVGTBCAR,Average daily beta-carotene,Nutrition,0.008
+AVGTS060,Average daily caproic acid (6:0),Nutrition,0.008
+AVGTM181,Average daily oleic acid (18:1),Nutrition,0.008
+DMDHRGND,Household reference person's sex,Household,0.007
+SMQ040,Current cigarette smoking,Lifestyle,0.007
+AVGTATOC,Average daily vitamin E,Nutrition,0.007
+RIDEXMON,Examination season,Demographic / timing,0.006
+AVGTCALC,Average daily calcium,Nutrition,0.006
+AVGTM201,Average daily eicosenoic acid (20:1),Nutrition,0.006
+DMDHRBR4,Household reference person's country of birth,Household,0.005
+BMXSUB,Subscapular skinfold,Body measurement,0.005
+DMDHHSZB,Children aged 6–17 in household,Household,0.004
+SMD100MN,Menthol cigarette indicator,Lifestyle,0.004
+DRQSDIET,Currently following a special diet,Diet behavior,0.004
+AVGTSODI,Average daily sodium,Nutrition,0.004
+SMD100NI,Cigarette nicotine content,Lifestyle,0.003
+AVGTVB2,Average daily riboflavin (vitamin B2),Nutrition,0.003
+AVGTFA,Average daily folic acid,Nutrition,0.003
+AVGTWS,Main tap-water source code,Diet / environment,0.003
+DRD370AQ,Breaded fish frequency,Seafood,0.002
+DRD370OQ,Sea bass frequency,Seafood,0.002
+BMIWT,Body-weight measurement note,Measurement quality,0.001
+DRD370E,Cod eaten in last 30 days,Seafood,0.001
+DRD370H,Mackerel eaten in last 30 days,Seafood,0.001
+DRD370LQ,Porgy frequency,Seafood,0.001
+DRD350C,Crayfish eaten in last 30 days,Seafood,0.000
